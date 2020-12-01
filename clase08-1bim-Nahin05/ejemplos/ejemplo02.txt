@@ -1,0 +1,9 @@
+1. Inicio
+2. edad, i[0,n]
+3. Si edad >= 18 entonces
+4.   Escribir "La edad ingresada pertenece a mayor de edad"
+5. Fin si
+6. Fin
+
+Si la edad es mayor o igual a 18 se presentara en pantalla el siguiente
+mensaje: "La edad ingresada pertenece a mayor de edad"
