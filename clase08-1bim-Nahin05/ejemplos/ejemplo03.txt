@@ -1,0 +1,17 @@
+1.  Inicio
+2.  edad, i[0,n]
+3.  sueldo, i[0,n]
+4.  edad <-- 21
+5.  Si edad >= 10 and edad <=20 entonces
+6.    sueldo <- 400  
+7.  Fin si
+8.  Si edad > 21 entonces
+9.    sueldo <- 500  
+10.  Fin si
+11. Escribir "El sueldo es :" + sueldo
+12.  Fin
+
+
+Si la edad es mayor o igual a 10 pero menor o igual a 20
+se presentará en pantalla "El sueldo es 400" pero si la edad es 21
+entonces se presentará en pantalla "El sueldo es 500"
